@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Program3 {
+public class Program03 {
     public static void main(String[] args) {
     //Zadatak: BonusCalcualtor
         //Uneti 2 broja: broj uspesnih prodaja broj i platu

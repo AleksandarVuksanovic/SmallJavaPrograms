@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Program5 {
+public class Program05 {
     public static void main (String [] Args) {
 
         //Imamo dve kockice ispred nas (plava i crvena),

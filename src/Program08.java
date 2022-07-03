@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Program8 {
+public class Program08 {
     public static void main(String[] args) {
 
         // Preko skenera uneti tri broja.

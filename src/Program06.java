@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Program6 {
+public class Program06 {
     public static void main (String [] Argds) {
         //1.Napisati program koji za ulaz od korisnika prima 3 decimalna broja. Na konozolu ispisati
         //najveci broj.

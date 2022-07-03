@@ -1,8 +1,7 @@
-import java.sql.SQLOutput;
 import java.time.LocalDate;
 import java.util.Scanner;
 
-public class Program2 {
+public class Program02 {
     public static void main(String[] args) {
 
         //Test punoletnosti

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Program1 {
+public class Program01 {
     public static void main(String[] args) {
 
         //Preko skenera uneti dva broja i odstampati aritmeticku sredinu unetih brojeva

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Program7 {
+public class Program07 {
     public static void main(String[] args) {
         //Napisati program koji od korisnika unosi godinu, zatim proveriti da li je godina prestupna.
 

@@ -1,4 +1,4 @@
-public class Program9 {
+public class Program09 {
     public static void main(String[] args) {
 
         //Prikazati parne jednocifrene brojeve
